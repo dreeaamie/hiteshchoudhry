@@ -1,3 +1,3 @@
-# hiteshchoudhry
+# javascriptstudy
 javascrirpt 
 null is a object
